@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Homepage
 description: Bookmark this to keep an eye on my project updates!
+
+# 页脚信息
+author:
+  name: Gu
+  email: 1943947616@qq.com
