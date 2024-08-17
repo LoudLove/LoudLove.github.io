@@ -66,3 +66,8 @@ def example_function():
 example_function()
 ```
 
+---
+
+| [GitHub](https://github.com/LoudLove) | [QQ mail](1943947616@qq.com) | [163mail](13120181021@163.com) |
+| ------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- |
+| © 2024 Your Name. All rights reserved.      |                                                      |                                              |
